@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saurabh
-- 👀 I’m interested in both computational and experimental approaches to understanding Human Cognition 
-- 💞️ I’m looking to collaborate on Bayesian Analysis and Cognitive Models 
+- 👀 I’m interested in both computational and experimental approaches to understanding Brain and Behaviour
+- 💞️ I’m looking to collaborate on Neurodevelopment, Bayesian Analysis and Computational Models
 - 📫 Currently I'm at Universität Osnabrück, reach me at sbiswas@uni-osnabrueck.de
 
 <!---
